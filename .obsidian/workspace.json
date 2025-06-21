@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "acd622ffaeab11c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "59624ccc84696959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43d99bab1c9e303",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "df2361cc0faccca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Info/Учёба/Java/Экзамен/Шаблоны/Шаблон №14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Шаблон №14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dd4b9af30ed8adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea198303f8777d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67811f165d7667c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d92280c20f593dfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "03ce332d916ad31a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "d9cefdc0b0ce8a00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8834ee57c20da767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71359ede048cfc0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Info/Программирование/Leetcode/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 3105. Longest Strictly Increasing or Strictly Decreasing Subarray"
+            }
+          },
+          {
+            "id": "57c07a584ac577c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Info/Программирование/Leetcode/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 3105. Longest Strictly Increasing or Strictly Decreasing Subarray"
+            }
+          },
+          {
+            "id": "94af30259aeeffe2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "dd885d7e361c04c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Info/Программирование/Leetcode/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 3105. Longest Strictly Increasing or Strictly Decreasing Subarray"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false
+    }
+  },
+  "active": "e43d99bab1c9e303",
+  "lastOpenFiles": [
+    "Info/Daily/2025-06-16.md",
+    "Info/Daily/2025-06-21.md",
+    "tickets/Ticket №2.md",
+    "tickets",
+    "Info/Учёба/Операционные системы/Экзамен/tickets/Ticket №3.md",
+    "Info/Учёба/Операционные системы/Экзамен/tickets/Ticket №2.md",
+    "Info/Учёба/Операционные системы/Экзамен/tickets/Ticket №1.md",
+    "Info/Учёба/Операционные системы/Экзамен/README.md",
+    "Info/Учёба/Операционные системы/Экзамен/tickets",
+    "Info/Учёба/Операционные системы/Экзамен",
+    "Info/Учёба/БД/Весна/Экзамен/Билеты/Билет №1.md",
+    "Info/Учёба/БД/Весна/Экзамен/Билеты",
+    "Info/Daily/2025-06-15.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №7.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №8.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №9.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №10.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №11.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №12.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №13.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №14.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №15.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №16.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №3.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №2.md",
+    "Info/Учёба/Java/Экзамен/Вопрос №1.md",
+    "Info/Daily/2025-06-14.md",
+    "Info/Life/Planner.md",
+    "Info/Учёба/БД/Весна/Экзамен/Билеты к экзамену.md",
+    "Info/Учёба/Java/Экзамен/Шаблоны/Шаблон №14.md",
+    "Info/Учёба/БД/Весна/Экзамен",
+    "Info/Учёба/Java/Экзамен/Шаблоны/Шаблон №10",
+    "Info/Учёба/Java/Экзамен/Шаблоны",
+    "Info/Учёба/Java/Без названия",
+    "Metadata/Cache/Pasted image 20250610190605.png",
+    "Metadata/Cache/Pasted image 20250610190309.png",
+    "Metadata/Cache/Pasted image 20250610185233.png",
+    "Metadata/Cache/Pasted image 20250610185217.png",
+    "Metadata/Cache/Pasted image 20250610175813.png",
+    "Metadata/Cache/Pasted image 20250610175312.png",
+    "Metadata/Cache/Pasted image 20250610175307.png",
+    "Metadata/Cache/Pasted image 20250610175143.png",
+    "Metadata/Cache/Pasted image 20250610175112.png",
+    "Metadata/Cache/Pasted image 20250610175018.png",
+    "Info/Учёба/Java/Экзамен",
+    "Untitled.canvas",
+    "Info/Учёба/БД/Весна/Лабы",
+    "Info/Программирование/Без названия.canvas",
+    "Info/Программирование/Основная сеть.canvas",
+    "Info/Без названия.canvas",
+    "Info/Книги/Без названия.canvas",
+    "Без названия.canvas"
+  ]
+}

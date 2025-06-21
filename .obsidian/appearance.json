@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#10b9da",
+  "showRibbon": false,
+  "nativeMenus": false,
+  "baseFontSize": 12
+}
